@@ -1,4 +1,4 @@
-package isep.eleve.hhamnnes.exercises.recursive.aglorithms;
+package isep.eleve.hhamnnes.exercises.recursive.algorithms;
 
 public class Main {
     public static void main(String[] args) {
